@@ -1,6 +1,6 @@
 # Simple Data Visualization App
 
-Created with React, Styled Components, Recharts and Material-Table
+Created with React, Typescript, Styled Components, Recharts and Material-Table
 
 # See it at https://jogracz.github.io/visualization/
 
